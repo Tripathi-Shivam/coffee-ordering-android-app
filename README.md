@@ -34,7 +34,7 @@ The purpose of this project is to implement a Java based Coffee ordering applica
     > Clone the repo
         >> For Windows: Git Bash
         >> For Linux: Terminal
-        >> git clone https://github.com/Tripathi-Shivam/android-chat-app.git
+        >> git clone https://github.com/Tripathi-Shivam/coffee-ordering-android-app.git
 
     > Open Android Studio, navigate to open project and  select the project.
     > Run on any emulator or phone of your choice.
